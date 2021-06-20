@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\im17\immod17\bin\Debug\immod17.exe.config
+C:\Users\lenovo\Desktop\im17\immod17\bin\Debug\immod17.exe
+C:\Users\lenovo\Desktop\im17\immod17\bin\Debug\immod17.pdb
+C:\Users\lenovo\Desktop\im17\immod17\obj\Debug\immod17.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\im17\immod17\obj\Debug\immod17.Form1.resources
+C:\Users\lenovo\Desktop\im17\immod17\obj\Debug\immod17.Properties.Resources.resources
+C:\Users\lenovo\Desktop\im17\immod17\obj\Debug\immod17.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\im17\immod17\obj\Debug\immod17.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\im17\immod17\obj\Debug\immod17.exe
+C:\Users\lenovo\Desktop\im17\immod17\obj\Debug\immod17.pdb
